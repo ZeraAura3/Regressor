@@ -3,6 +3,7 @@
 A comprehensive Python-based regression analysis tool that provides an interactive environment for training, evaluating, and comparing multiple regression models with advanced visualization and reporting capabilities.
 
 ---
+Streamlit link : https://regression-simulator.streamlit.app/
 
 ## 🚀 Features
 
