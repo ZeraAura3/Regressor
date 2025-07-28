@@ -68,20 +68,7 @@ st.markdown("""
         -webkit-text-fill-color: transparent;
         background-clip: text;
         text-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        position: relative;
         word-wrap: break-word;
-    }
-    
-    .main-header::after {
-        content: '';
-        position: absolute;
-        bottom: -10px;
-        left: 50%;
-        transform: translateX(-50%);
-        width: clamp(60px, 15vw, 100px);
-        height: clamp(3px, 0.5vw, 4px);
-        background: linear-gradient(135deg, #667eea, #764ba2);
-        border-radius: 2px;
     }
     
     /* Subtitle - Responsive */
